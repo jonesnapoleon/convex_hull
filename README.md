@@ -1,8 +1,8 @@
 # CONVEX HULL - BRUTE FORCE ALGORITHM
 
-> TUGAS KECIL 1 STRATEGI ALGORITMA
+> Tugas Kecil 1 Strategi Algoritma
 
-> AUTHOR: JONES NAPOLEON AUTUMN
+> Author: [Jones Napoleon Autumn](https://jonesnapoleon.web.app)
 
 ## PREREQUISITE
 ```
