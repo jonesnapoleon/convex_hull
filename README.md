@@ -1,15 +1,18 @@
 # TUGAS KECIL 1 STRATEGI ALGORITMA
 # CONVEX HULL - BRUTE FORCE ALGORITHM
 
-AUTHOR: JONES NAPOLEON AUTUMN
+> AUTHOR: JONES NAPOLEON AUTUMN
 
 ## PREREQUISITE
+```
 g++ or gcc
-
-Installation availabe at http://www.cs.utah.edu/~alee/g++/g++old.html
+```
+> Installation availabe at http://www.cs.utah.edu/~alee/g++/g++old.html
 
 ## HOW TO RUN
+```
 ./run.bat
+```
 
 ## FUNDAMENTAL THEOREM
 Convex Hull merupakan himpunan convex terkecil yang mengandung atau mengenkapsulasi semua himpunan titik yang ada, 
@@ -25,4 +28,4 @@ Kumpulan titik-titik  yang sesuai tersebut kemudian dikembalikan.
 Read more on ./docs/laporan_convexhull.pdf as a response from ./docs/tucil/pdf
 
 ## HOW PROGRAM WORKS
-Input the number of points you would love to play with.
+> Input the number of points you would love to play with.
